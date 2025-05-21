@@ -26,11 +26,16 @@ A página apresenta:
 📦 projeto-login/
 │
 ├── index.html # Página principal
-├── style.css # Estilos da interface (não incluído aqui)
+
+├── style.css # Estilos da interface
+
 ├── imagem/
-│ ├── google.png # Ícone do Google
-│ ├── facebook.png # Ícone do Facebook
-│ └── apple-logo.png # Ícone da Apple
+
+│ ├── google.png 
+
+│ ├── facebook.png 
+
+│ └── apple-logo.png 
 
 
 ## 🚀 Como Usar
